@@ -6,7 +6,7 @@ from nnfs.datasets import spiral_data
 
 np.random.seed(0)
 
-
+#lalala
 nnfs.init()
 
 input = [[1, 2, 3, 4,],
